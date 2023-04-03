@@ -1,2 +1,2 @@
 # readme.md
-Hello World
+print("hello world")
